@@ -29,7 +29,7 @@ body{
 	top: 106px;
 	left: 100px;
 	font-size: 12px;
-	font-family: "Tahoma Regular";
+	font-family: Tahoma;
 	color: #128aa7;
 }
 
@@ -38,7 +38,7 @@ body{
 	top: 11px;
 	right: 33px;
 	font-size: 12px;
-	font-family: "Tahoma Regular";
+	font-family: Tahoma;
 	color: #128aa7;
 	line-height: 18px;
 }
@@ -59,7 +59,7 @@ body{
 	text-align: center;
 	padding: 0px 4px;
 	font-size: 10px;
-	font-family: "Tahoma Regular";
+	font-family: Tahoma;
 	color: #128aa7;
 }
 
@@ -92,7 +92,7 @@ body{
 }
 .main-menu li a{
     font-size: 14px;
-    font-family: "Tahoma Regular";
+    font-family: Tahoma;
     color: #ffffff;
     text-decoration: none;
     display: inline-block;
@@ -137,7 +137,7 @@ body{
 .submenu {
     width: 150px;
     position: absolute;
-    top: 31px;
+    top: 29px;
     left: 35px;
     display: none;
     background-color: #343434;
@@ -164,7 +164,7 @@ body{
 
 .content h1{
   font-size: 18px;
-  font-family: "Tahoma Regular";
+  font-family: Tahoma;
   color: #424c43;
   font-weight: bold;
   text-align: center;
@@ -172,11 +172,11 @@ body{
 }
 
 .content p{
-  font-family: "Tahoma Regular";
-  font-size: 14px;
+  font-family: Tahoma;
+  font-size: 13px;
   line-height: 24px;
   color: #424c43;
-  padding: 0px 26px 0px 16px; 
+  padding: 0px 24px 0px 14px; 
 
 }
 .left{
@@ -205,7 +205,7 @@ body{
 
 .footer {
   color: #ffffff;
-  font-family: "Tahoma Regular";
+  font-family: Tahoma;
   font-size: 12px;
   text-align: center;
   margin: 10px auto;
